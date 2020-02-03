@@ -4,7 +4,7 @@ Architecture: all
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 16
 Depends: keydb-server (<< 5:5.3.0-1chl1~bionic1.1~), keydb-server (>= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb_5.3.0-1chl1~bionic1_all.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb_5.3.0-1chl1~bionic1_all.deb
 Size: 4412
 MD5sum: ea07b155a465cd09a0306abb1c3bb34c
 SHA1: cf1f451b51562e8c71122c89ea01067376100a08
@@ -27,7 +27,7 @@ Architecture: all
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 16
 Depends: keydb-pro-server (<< 5:5.3.0-1chl1~bionic1.1~), keydb-pro-server (>= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro_5.3.0-1chl1~bionic1_all.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro_5.3.0-1chl1~bionic1_all.deb
 Size: 4416
 MD5sum: 9e971c0385c83d1fc147db85ef4a5951
 SHA1: f0520a19b2db179432b992fded5fffb0b84f0115
@@ -51,7 +51,7 @@ Architecture: amd64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 52
 Depends: lsb-base (>= 3.2-14), keydb-pro-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro-sentinel_5.3.0-1chl1~bionic1_amd64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro-sentinel_5.3.0-1chl1~bionic1_amd64.deb
 Size: 11048
 MD5sum: c1d62da357a23e478a4e8d8fdbc60623
 SHA1: 20c850295bfd4747e3eef8783d00bb69786e63ce
@@ -73,7 +73,7 @@ Architecture: arm64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 52
 Depends: lsb-base (>= 3.2-14), keydb-pro-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro-sentinel_5.3.0-1chl1~bionic1_arm64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro-sentinel_5.3.0-1chl1~bionic1_arm64.deb
 Size: 11052
 MD5sum: 2777f6221f66f3c59f5a40149a1e77fd
 SHA1: 7f59de989a0c24159ba93cebd2708976095323d1
@@ -95,7 +95,7 @@ Architecture: arm64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 119
 Depends: lsb-base (>= 3.2-14), keydb-pro-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro-server_5.3.0-1chl1~bionic1_arm64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro-server_5.3.0-1chl1~bionic1_arm64.deb
 Size: 35732
 MD5sum: a6fccc5a5a7b02986825d11555d77c0a
 SHA1: efd0486c619f103246d9cc002fc3727173f1ee3c
@@ -117,7 +117,7 @@ Architecture: amd64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 119
 Depends: lsb-base (>= 3.2-14), keydb-pro-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro-server_5.3.0-1chl1~bionic1_amd64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro-server_5.3.0-1chl1~bionic1_amd64.deb
 Size: 35732
 MD5sum: 039eef3d08403a0e1f3fbae81bbe07ca
 SHA1: 113c51eefa234cec694efa738ac87d4a1c2f36c0
@@ -141,7 +141,7 @@ Installed-Size: 5908
 Depends: adduser, libc6 (>= 2.17), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.8.1), libuuid1 (>= 2.16)
 Breaks: keydb-server (<< 2:2.6.16-1)
 Replaces: keydb-server (<< 2:2.6.16-1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro-tools_5.3.0-1chl1~bionic1_arm64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro-tools_5.3.0-1chl1~bionic1_arm64.deb
 Size: 5404892
 MD5sum: 71ae5cbb93d57e74e7abfb99da187a15
 SHA1: 4d316927baa84f9e58159dc55fd377b6953ad65f
@@ -165,7 +165,7 @@ Installed-Size: 5908
 Depends: adduser, libc6 (>= 2.17), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.8.1), libuuid1 (>= 2.16)
 Breaks: keydb-server (<< 2:2.6.16-1)
 Replaces: keydb-server (<< 2:2.6.16-1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-pro-tools_5.3.0-1chl1~bionic1_amd64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-pro-tools_5.3.0-1chl1~bionic1_amd64.deb
 Size: 6208628
 MD5sum: b576bc01b6e14b1371e0ba24f4597580
 SHA1: 386ceee9688a1cf55f841aa7a9f72b7977ef96cd
@@ -187,7 +187,7 @@ Architecture: amd64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 52
 Depends: lsb-base (>= 3.2-14), keydb-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-sentinel_5.3.0-1chl1~bionic1_amd64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-sentinel_5.3.0-1chl1~bionic1_amd64.deb
 Size: 11048
 MD5sum: cb4b9974f10d176c4bca368e9e245c66
 SHA1: 387198015ab49a2c123d06f7e011af286c510de3
@@ -209,7 +209,7 @@ Architecture: arm64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 52
 Depends: lsb-base (>= 3.2-14), keydb-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-sentinel_5.3.0-1chl1~bionic1_arm64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-sentinel_5.3.0-1chl1~bionic1_arm64.deb
 Size: 11056
 MD5sum: 99b1835d6d0a1ca0ecb43291e6372818
 SHA1: cc7df71aff628fb1601b23d09b3fa94fd0d701fe
@@ -231,7 +231,7 @@ Architecture: arm64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 119
 Depends: lsb-base (>= 3.2-14), keydb-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-server_5.3.0-1chl1~bionic1_arm64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-server_5.3.0-1chl1~bionic1_arm64.deb
 Size: 35728
 MD5sum: c420ec1028e1142a96f0b4e757ecb6c6
 SHA1: 94e7abdbdc38e44f4a8d66dd6683ab064a37701b
@@ -253,7 +253,7 @@ Architecture: amd64
 Maintainer: Ben Schermel <ben@eqalpha.com>
 Installed-Size: 119
 Depends: lsb-base (>= 3.2-14), keydb-tools (= 5:5.3.0-1chl1~bionic1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-server_5.3.0-1chl1~bionic1_amd64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-server_5.3.0-1chl1~bionic1_amd64.deb
 Size: 35728
 MD5sum: a6730d9ef13af3b8877b759470b2520d
 SHA1: 97e763402664e35027cb63eab7b239d80218a4ab
@@ -277,7 +277,7 @@ Installed-Size: 5908
 Depends: adduser, libc6 (>= 2.17), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.8.1), libuuid1 (>= 2.16)
 Breaks: keydb-server (<< 2:2.6.16-1)
 Replaces: keydb-server (<< 2:2.6.16-1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-tools_5.3.0-1chl1~bionic1_amd64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-tools_5.3.0-1chl1~bionic1_amd64.deb
 Size: 16754520
 MD5sum: 93096feb81526e8194381ed661670099
 SHA1: d68b74415ff86d6b5ef57bfc987915cff99846fd
@@ -301,7 +301,7 @@ Installed-Size: 5908
 Depends: adduser, libc6 (>= 2.17), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.8.1), libuuid1 (>= 2.16)
 Breaks: keydb-server (<< 2:2.6.16-1)
 Replaces: keydb-server (<< 2:2.6.16-1)
-Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v/keydb-tools_5.3.0-1chl1~bionic1_arm64.deb
+Filename: https://github.com/eqsamplerepo/sample-ppa/releases/download/v5.3.0/keydb-tools_5.3.0-1chl1~bionic1_arm64.deb
 Size: 16236184
 MD5sum: 521bafef6e5854e3b6c0dfd99809fcc6
 SHA1: 5187beb3b25ab01388686aa1314c5dd3e69dfe21
